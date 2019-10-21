@@ -1,0 +1,25 @@
+For SampleRTT: 106.0[ms]
+EstimatedRTT = 100.75[ms]
+DevRTT = 5.25[ms]
+Timeout = 121.75[ms]
+
+For SampleRTT: 120.0[ms]
+EstimatedRTT = 103.15625[ms]
+DevRTT = 8.75[ms]
+Timeout = 138.15625[ms]
+
+For SampleRTT: 140.0[ms]
+EstimatedRTT = 107.76172[ms]
+DevRTT = 15.7734375[ms]
+Timeout = 170.85547[ms]
+
+For SampleRTT: 90.0[ms]
+EstimatedRTT = 105.541504[ms]
+DevRTT = 7.3896484[ms]
+Timeout = 135.1001[ms]
+
+For SampleRTT: 115.0[ms]
+EstimatedRTT = 106.723816[ms]
+DevRTT = 7.9068604[ms]
+Timeout = 138.35126[ms]
+
